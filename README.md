@@ -35,18 +35,23 @@
 
 <br/>
 
-## DesignPattern
+## Design Pattern
 헤드퍼스트 디자인 패턴 책과 GURU 디자인패턴 사이트를 참고하여 진행하였습니다.
-- [전략 패턴](https://github.com/kaeuhy/TIL/blob/DesignPattern/strategy/strategy.md)
+- [전략 패턴](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/strategy/strategy.md)
 
-- [싱글턴](https://github.com/kaeuhy/TIL/blob/DesignPattern/singleton/singleton.md)
+- [싱글턴](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/singleton/singleton.md)
 
-- [팩토리 메소드](https://github.com/kaeuhy/TIL/blob/DesignPattern/factory-method/facotry-method.md)
+- [팩토리 메소드](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/factory-method/facotry-method.md)
 
-- [추상 팩토리](https://github.com/kaeuhy/TIL/blob/DesignPattern/abstract-factory/abstract-factory.md)
+- [추상 팩토리](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/abstract-factory/abstract-factory.md)
 
-- [데코레이터](https://github.com/kaeuhy/TIL/blob/DesignPattern/decorator/decorator.md)
+- [데코레이터](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/decorator/decorator.md)
 
-- [옵저버](https://github.com/kaeuhy/TIL/blob/DesignPattern/observer/observer.md)
+- [옵저버](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/observer/observer.md)
+
+<br/>
+
+## Operating System
+- [운영 체제란?](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/os/os.md)
 
 <br/>
