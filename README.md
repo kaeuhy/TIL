@@ -4,7 +4,8 @@
 <br/>
 
 ## TypeScript
-- [변수와 함수의 타입 정의](https://github.com/kaeuhy/TIL/blob/main/sTypeScript/week2/type.md)
+쉽게 시작하는 타입스크립트 책을 참고하여 진행하였습니다.
+- [변수와 함수의 타입 정의](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week2/type.md)
 
 - [인터페이스](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week3/interface.md)
 
@@ -31,5 +32,21 @@
 - [유틸리티 타입](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week8/utility_types/utility_type.md)
 
 - [맵드 타입](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week8/mapped_type/mapped_type.md)
+
+<br/>
+
+## DesignPattern
+헤드퍼스트 디자인 패턴 책과 GURU 디자인패턴 사이트를 참고하여 진행하였습니다.
+- [전략 패턴](https://github.com/kaeuhy/TIL/blob/DesignPattern/strategy/strategy.md)
+
+- [싱글턴](https://github.com/kaeuhy/TIL/blob/DesignPattern/singleton/singleton.md)
+
+- [팩토리 메소드](https://github.com/kaeuhy/TIL/blob/DesignPattern/factory-method/facotry-method.md)
+
+- [추상 팩토리](https://github.com/kaeuhy/TIL/blob/DesignPattern/abstract-factory/abstract-factory.md)
+
+- [데코레이터](https://github.com/kaeuhy/TIL/blob/DesignPattern/decorator/decorator.md)
+
+- [옵저버](https://github.com/kaeuhy/TIL/blob/DesignPattern/observer/observer.md)
 
 <br/>
