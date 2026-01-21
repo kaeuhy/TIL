@@ -51,6 +51,21 @@
 
 <br/>
 
+## DataStructure
+- [배열](https://github.com/kaeuhy/TIL/blob/main/DataStructure/array/array.md)
+
+- [리스트](https://github.com/kaeuhy/TIL/blob/main/DataStructure/list/list.md)
+
+- [스택](https://github.com/kaeuhy/TIL/blob/main/DataStructure/stack/stack.md)
+
+- [큐](https://github.com/kaeuhy/TIL/blob/main/DataStructure/queue/queue.md)
+
+- [덱](https://github.com/kaeuhy/TIL/blob/main/DataStructure/deque/deque.md)
+
+- [해시 맵 & 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
+
+<br/>
+
 ## Operating System
 - [운영 체제란?](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/os/os.md)
 
