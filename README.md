@@ -71,4 +71,6 @@
 
 - [프로세스](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/proces/proces.md)
 
+- [스레드](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/thread/thread.md)
+
 <br/>
