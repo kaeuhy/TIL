@@ -73,4 +73,6 @@
 
 - [스레드](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/thread/thread.md)
 
+- [CPU 스케줄링](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/scheduling/scheduling.md)
+
 <br/>
