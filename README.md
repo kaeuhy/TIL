@@ -75,4 +75,6 @@
 
 - [CPU 스케줄링](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/scheduling/scheduling.md)
 
+- [동기화](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/synchronization/synchronization.md)
+
 <br/>
