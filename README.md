@@ -77,4 +77,6 @@
 
 - [동기화](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/synchronization/synchronization.md)
 
+- [교착 상태](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/deadlock/deadlock.md)
+
 <br/>
