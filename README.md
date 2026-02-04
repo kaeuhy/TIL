@@ -79,4 +79,6 @@
 
 - [교착 상태](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/deadlock/deadlock.md)
 
+- [메모리 할당](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/memory/memory.md)
+
 <br/>
