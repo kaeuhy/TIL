@@ -6,7 +6,9 @@
 ## React
 ### React Docs
 React Docs를 참고하여 정리하였습니다.
-- [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/conponent.md)
+- [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
+
+<br/>
 
 ## TypeScript
 쉽게 시작하는 타입스크립트 책의 내용과 이미지를 참고하여 진행하였습니다.
