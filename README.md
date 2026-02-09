@@ -5,9 +5,9 @@
 
 ## React
 ### React Docs
-[React Docs](https://ko.react.dev/learn)를 참고하여 정리하였습니다.
+[React Docs](https://ko.react.dev/learn)의 내용과 이미지를 참고하여 정리하였습니다.
 - [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
-- [컴포넌트 `import` 및 `export`](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
+- [컴포넌트 import 및 export](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
 
 <br/>
 
@@ -59,21 +59,6 @@
 
 <br/>
 
-## DataStructure
-- [배열](https://github.com/kaeuhy/TIL/blob/main/DataStructure/array/array.md)
-
-- [리스트](https://github.com/kaeuhy/TIL/blob/main/DataStructure/list/list.md)
-
-- [스택](https://github.com/kaeuhy/TIL/blob/main/DataStructure/stack/stack.md)
-
-- [큐](https://github.com/kaeuhy/TIL/blob/main/DataStructure/queue/queue.md)
-
-- [덱](https://github.com/kaeuhy/TIL/blob/main/DataStructure/deque/deque.md)
-
-- [해시 맵 & 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
-
-<br/>
-
 ## Operating System
 혼자 공부하는 컴퓨터구조 + 운영체제의 내용과 이미지를 참고하였습니다.
 - [운영 체제란?](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/os/os.md)
@@ -91,5 +76,20 @@
 - [메모리 할당](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/memory/memory.md)
 
 - [파일 시스템](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/fileSystem/fileSystem.md)
+
+<br/>
+
+## DataStructure
+- [배열](https://github.com/kaeuhy/TIL/blob/main/DataStructure/array/array.md)
+
+- [리스트](https://github.com/kaeuhy/TIL/blob/main/DataStructure/list/list.md)
+
+- [스택](https://github.com/kaeuhy/TIL/blob/main/DataStructure/stack/stack.md)
+
+- [큐](https://github.com/kaeuhy/TIL/blob/main/DataStructure/queue/queue.md)
+
+- [덱](https://github.com/kaeuhy/TIL/blob/main/DataStructure/deque/deque.md)
+
+- [해시 맵 & 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
 
 <br/>
