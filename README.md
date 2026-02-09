@@ -5,8 +5,9 @@
 
 ## React
 ### React Docs
-React Docs를 참고하여 정리하였습니다.
+[React Docs](https://ko.react.dev/learn)를 참고하여 정리하였습니다.
 - [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
+- [컴포넌트 `import` 및 `export`](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
 
 <br/>
 
