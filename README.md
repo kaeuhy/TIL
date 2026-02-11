@@ -9,6 +9,7 @@
 - [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
 - [컴포넌트 import 및 export](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
 - [JSX로 마크업 작성](https://github.com/kaeuhy/TIL/blob/main/React/Docs/jsx/jsx.md)
+- [중괄호가 있는 JSX 안에서 자바스크립트 사용](https://github.com/kaeuhy/TIL/blob/main/React/Docs/curlyBracesJsx/curlyBracesJsx.md)
 
 <br/>
 
