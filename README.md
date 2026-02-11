@@ -95,3 +95,8 @@
 - [해시 맵 & 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
 
 <br/>
+
+## etc.
+- [DDD와 이벤트 스토밍](https://github.com/kaeuhy/TIL/blob/main/etc/DDD/DDD.md)
+
+<br/>
