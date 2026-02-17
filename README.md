@@ -13,6 +13,7 @@
 - [컴포넌트에 props 전달하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/props/props.md)
 - [조건부 렌더링](https://github.com/kaeuhy/TIL/blob/main/React/Docs/conditionalRendering/conditionalRendering.md)
 - [리스트 렌더링](https://github.com/kaeuhy/TIL/blob/main/React/Docs/listRendering/listRendering.md)
+- [컴포넌트를 순수하게 유지하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/pureComponent/pureComponent.md)
 
 <br/>
 
