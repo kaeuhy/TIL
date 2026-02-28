@@ -88,7 +88,7 @@ export default function Gallery() {
 `state` 변수를 추가하려면 파일 상단의 React에서 `useState` 를 가져옵니다.
 
 ```tsx
-impoer { useState } from 'react';
+import { useState } from 'react';
 ```
 
 </br>
