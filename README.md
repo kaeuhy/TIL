@@ -5,7 +5,7 @@
 
 ## React
 ### React Docs
-[React Docs](https://ko.react.dev/learn)의 내용과 이미지를 참고하여 정리하였습니다.
+[React 공식문서](https://ko.react.dev/learn)의 내용과 이미지를 참고하여 정리하였습니다.
 - [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
 - [컴포넌트 import 및 export](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
 - [JSX로 마크업 작성](https://github.com/kaeuhy/TIL/blob/main/React/Docs/jsx/jsx.md)
