@@ -17,6 +17,7 @@
 - [트리로서 UI 이해하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/treeUI/treeUI.md)
 - [이벤트에 응답하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/event/event.md)
 - [State: 컴포넌트의 기억 저장소](https://github.com/kaeuhy/TIL/blob/main/React/Docs/state/state.md)
+- [렌더링 그리고 커밋](https://github.com/kaeuhy/TIL/blob/main/React/Docs/renderingAndCommit/renderingAndCommit.md)
 
 <br/>
 
