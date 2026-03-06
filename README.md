@@ -19,6 +19,7 @@
 - [State: 컴포넌트의 기억 저장소](https://github.com/kaeuhy/TIL/blob/main/React/Docs/state/state.md)
 - [렌더링 그리고 커밋](https://github.com/kaeuhy/TIL/blob/main/React/Docs/renderingAndCommit/renderingAndCommit.md)
 - [스냅샷으로서의 State](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateAsSnapshot/stateAsSnapshot.md)
+- [state 업데이트 큐](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateUpdateQueue/stateUpdateQueue.md)
 
 <br/>
 
