@@ -26,7 +26,7 @@
 ### 다시 깊게 익히는 인사이드 리액트
 [다시 깊게 익히는 인사이드 리액트](https://product.kyobobook.co.kr/detail/S000217277841?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1)의 내용과 이미지를 참고하여 정리하였습니다.
 - [프론트엔드 개발 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackFrontEnd/lookBackFrontEnd.md)
-- [싱글 페이지 애플리케이션 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackFrontEnd/lookBackFrontEnd.md)
+- [싱글 페이지 애플리케이션 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackSPA/lookBackSPA.md)
 
 <br/>
 
