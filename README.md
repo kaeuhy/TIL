@@ -23,7 +23,9 @@
   - [스냅샷으로서의 State](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateAsSnapshot/stateAsSnapshot.md)
   - [State 업데이트 큐](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateUpdateQueue/stateUpdateQueue.md)
   - [객체 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/objectStateUpdate/objectStateUpdate.md) 
-  
+  - [배열 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/arrayStateUpdate/arrayStateUpdate.md) 
+
+
   ### 다시 깊게 익히는 인사이드 리액트
   [다시 깊게 익히는 인사이드 리액트](https://product.kyobobook.co.kr/detail/S000217277841?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1)의 내용과 이미지를 참고하여 정리하였습니다.
   
