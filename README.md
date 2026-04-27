@@ -36,6 +36,7 @@
   - [JSX 구성 요소 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackJSXElement/lookBackJSXElement.md)
   - [JSX 핵심 문법과 자바스크립트 변환 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackJSXSyntaxJavaScriptTransformation/lookBackJSXSyntaxJavaScriptTransformation.md)
   - [리액트 재조정과 키 프롭스 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackReconciliationKeyProps/lookBackReconciliationKeyProps.md)
+  - [리액트 렌더링 규칙 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackRenderRule/lookBackRenderRule.md)
 
 <br/>
 
