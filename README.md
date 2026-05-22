@@ -39,6 +39,7 @@
   - [리액트 렌더링 규칙 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackRenderRule/lookBackRenderRule.md)
   - [리액트의 프롭스와 컴포넌트 패턴 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackComponentPattern/lookBackComponentPattern.md)
   - [리액트의 상태와 배칭 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackStateBatching/lookBackStateBatching.md)
+  - [리액트를 구성하는 뿌리, 파이버 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackFiber/lookBackFiber.md)
 
 <br/>
 
