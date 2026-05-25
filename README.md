@@ -43,6 +43,15 @@
 
 <br/>
 
+- ## JavaScript
+  ### 모던 자바스크립트 Deep Dive
+    [모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)의 내용과 이미지를 참고하여 진행하였습니다.
+  
+  - [자바스크립트란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week2/WhatisJavaScript?.pdf)
+  
+
+<br/>
+
 - ## TypeScript
   ### 쉽게 시작하는 타입스크립트
     [쉽게 시작하는 타입스크립트](https://product.kyobobook.co.kr/detail/S000202595007)의 내용과 이미지를 참고하여 진행하였습니다.
