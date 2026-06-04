@@ -50,6 +50,7 @@
     [모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)의 내용과 이미지를 참고하여 진행하였습니다.
   
   - [자바스크립트란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week2/WhatisJavaScript%3F.pdf)
+  - [변수, 표현식과 문, 데이터 타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week3/variableExpressionStatementDataType.md)
   
 
 <br/>
