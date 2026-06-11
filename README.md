@@ -52,6 +52,7 @@
   - [자바스크립트란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week2/WhatisJavaScript%3F.pdf)
   - [변수, 표현식과 문, 데이터 타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week3/variableExpressionStatementDataType.md)
   - [변수와 객체 그리고 메모리](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/variableObjectMemory.md)
+  - [연산자, 조건문](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/operatorConditional.md)
 
 <br/>
 
