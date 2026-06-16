@@ -42,7 +42,8 @@
   - [리액트를 구성하는 뿌리, 파이버 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackFiber/lookBackFiber.md)
   - [리액트 훅의 사용 규칙 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackReactHook/lookBackReactHook.md)
   - [리액트 필수 훅 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackEssentialHooks/lookBackEssentialHooks.md)
-  
+  - [리액트 메모이제이션 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackReactMemoized/lookBackReactMemoized.md)
+
 <br/>
 
 - ## JavaScript
