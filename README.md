@@ -55,6 +55,7 @@
   - [변수, 표현식과 문, 데이터 타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week3/variableExpressionStatementDataType.md)
   - [변수와 객체 그리고 메모리](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/variableObjectMemory.md)
   - [연산자, 조건문](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/operatorConditional.md)
+  - [타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체 비교](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/javascriptValuesTypesAndObjects.md)
 
 <br/>
 
