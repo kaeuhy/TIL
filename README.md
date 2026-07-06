@@ -58,7 +58,8 @@
   - [Stack, Call Stack & Heap](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/stackCallStackHeap.md)
   - [연산자, 조건문](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/operatorConditional.md)
   - [타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체 비교](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week5/javascriptValuesTypesAndObjects.md)
-  - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatIsFunction%3F.pdf)
+  - [자바스크립트의 실행 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/executionProcess.md)
+  - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatisFunction%3F.pdf)
 
 <br/>
 
