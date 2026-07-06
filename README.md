@@ -60,6 +60,7 @@
   - [타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체 비교](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week5/javascriptValuesTypesAndObjects.md)
   - [자바스크립트의 실행 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/executionProcess.md)
   - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatisFunction%3F.pdf)
+  - [스코프, 전역 변수의 문제점](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/scopeGlobalVariable.md)
 
 <br/>
 
