@@ -61,6 +61,7 @@
   - [자바스크립트의 실행 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/executionProcess.md)
   - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatisFunction%3F.pdf)
   - [스코프, 전역 변수의 문제점](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/scopeGlobalVariable.md)
+  - [let, const 키워드와 블록 레벨 스코프](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/letConstBlockScope.md)
 
 <br/>
 
