@@ -62,6 +62,7 @@
   - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatisFunction%3F.pdf)
   - [스코프, 전역 변수의 문제점](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/scopeGlobalVariable.md)
   - [let, const 키워드와 블록 레벨 스코프](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/letConstBlockScope.md)
+  - [프로퍼티 어트리뷰트](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/propertyAttribute.md)
 
 <br/>
 
