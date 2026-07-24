@@ -65,6 +65,7 @@
   - [프로퍼티 어트리뷰트](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/propertyAttribute.md)
   - [생성자 함수에 의한 객체 생성](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/constructorFunctionObject.md)
   - [함수와 일급 객체](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/firstClassObject.md)
+  - [프로토타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/prototype.md)
   - [Strict Mode](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/strictMode.md)
 
 <br/>
