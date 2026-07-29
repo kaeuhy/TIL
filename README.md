@@ -23,8 +23,7 @@
   - [스냅샷으로서의 State](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateAsSnapshot/stateAsSnapshot.md)
   - [State 업데이트 큐](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateUpdateQueue/stateUpdateQueue.md)
   - [객체 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/objectStateUpdate/objectStateUpdate.md) 
-  - [배열 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/arrayStateUpdate/arrayStateUpdate.md) 
-
+  - [배열 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/arrayStateUpdate/arrayStateUpdate.md)
 
   ### 다시 깊게 익히는 인사이드 리액트
   [다시 깊게 익히는 인사이드 리액트](https://product.kyobobook.co.kr/detail/S000217277841?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1)의 내용과 이미지를 참고하여 정리하였습니다.
@@ -59,7 +58,7 @@
   - [연산자, 조건문](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/operatorConditional.md)
   - [타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체 비교](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week5/javascriptValuesTypesAndObjects.md)
   - [자바스크립트의 실행 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/executionProcess.md)
-  - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatisFunction%3F.pdf)
+  - [함수](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week6/WhatIsFunction%3F.pdf)
   - [스코프, 전역 변수의 문제점](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/scopeGlobalVariable.md)
   - [let, const 키워드와 블록 레벨 스코프](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/letConstBlockScope.md)
   - [프로퍼티 어트리뷰트](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/propertyAttribute.md)
@@ -67,6 +66,7 @@
   - [함수와 일급 객체](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/firstClassObject.md)
   - [프로토타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/prototype.md)
   - [Strict Mode](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/strictMode.md)
+  - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
 
 <br/>
 
