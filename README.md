@@ -65,6 +65,7 @@
   - [생성자 함수에 의한 객체 생성](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/constructorFunctionObject.md)
   - [함수와 일급 객체](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week7/firstClassObject.md)
   - [프로토타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/prototype.md)
+  - [var, let 키워드 그리고 전역 객체와 프로토타입 체인](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/varLetGlobalThisPrototypeChain.md)
   - [Strict Mode](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/strictMode.md)
   - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
   - [Closure](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
