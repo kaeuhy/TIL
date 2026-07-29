@@ -67,6 +67,7 @@
   - [프로토타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/prototype.md)
   - [Strict Mode](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/strictMode.md)
   - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
+  - [Closure](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
 
 <br/>
 
