@@ -67,8 +67,9 @@
   - [프로토타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/prototype.md)
   - [var, let 키워드 그리고 전역 객체와 프로토타입 체인](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/varLetGlobalThisPrototypeChain.md)
   - [Strict Mode](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week8/strictMode.md)
+  - [실행 컨텍스트](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/executionContext.md)
   - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
-  - [Closure](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
+  - [클로저](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
 
 <br/>
 
