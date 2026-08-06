@@ -70,6 +70,7 @@
   - [실행 컨텍스트](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/executionContext.md)
   - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
   - [클로저](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
+  - [class](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/class.md)
 
 <br/>
 
