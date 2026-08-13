@@ -71,6 +71,7 @@
   - [this](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/this.md)
   - [클로저](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week9/closure.md)
   - [class](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/class.md)
+  - [class의 get, set](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/getSet.md)
   - [Static Factory Method](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/staticFactoryMethod.md)
   - [배열](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/array.md)
   - [Number, Math, Date, RegExp, String](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/numberMathDateRegExpString.md)
