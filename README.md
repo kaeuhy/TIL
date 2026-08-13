@@ -73,7 +73,8 @@
   - [class](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/class.md)
   - [Static Factory Method](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/staticFactoryMethod.md)
   - [배열](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/array.md)
-
+  - [Number, Math, Date, RegExp, String](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/numberMathDateRegExpString.md)
+  
 <br/>
 
 - ## TypeScript
