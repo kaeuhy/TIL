@@ -76,6 +76,7 @@
   - [Static Factory Method](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week10/staticFactoryMethod.md)
   - [배열](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/array.md)
   - [Number, Math, Date, RegExp, String](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/numberMathDateRegExpString.md)
+  - [이터러블](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/iterable.md)
   
 <br/>
 
