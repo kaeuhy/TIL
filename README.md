@@ -78,6 +78,7 @@
   - [Number, Math, Date, RegExp, String](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week11/numberMathDateRegExpString.md)
   - [이터러블](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/iterable.md)
   - [스프레드 문법](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/spread.md)
+  - [디스트럭처링 할당](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/destructuringAssignment.md)
   
 <br/>
 
