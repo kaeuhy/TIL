@@ -79,6 +79,7 @@
   - [이터러블](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/iterable.md)
   - [스프레드 문법](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/spread.md)
   - [디스트럭처링 할당](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/destructuringAssignment.md)
+  - [Set과 Map](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/setMap.md)
   
 <br/>
 
