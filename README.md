@@ -80,6 +80,7 @@
   - [스프레드 문법](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/spread.md)
   - [디스트럭처링 할당](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/destructuringAssignment.md)
   - [Set과 Map](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/setMap.md)
+  - [브라우저의 렌더링 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/browserRendering.md)
   
 <br/>
 
