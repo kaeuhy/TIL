@@ -4,6 +4,15 @@
 <br/>
 
 ## 분류
+- ## Electron
+  ### Electron Docs
+    [Electron 공식문서](https://www.electronjs.org/docs/latest/)의 내용과 이미지를 참고하여 정리하였습니다.
+
+  - [Process Model](https://github.com/kaeuhy/TIL/blob/main/Electron/Docs/processModel/processModel.md)
+
+
+<br/>
+
 - ## React
   ### React Docs
     [React 공식문서](https://ko.react.dev/learn)의 내용과 이미지를 참고하여 정리하였습니다.
