@@ -155,6 +155,7 @@
 <br/>
 
 - ## etc.
+  - [Named Pipe](https://github.com/kaeuhy/TIL/blob/main/etc/namedPipe/namedPipe.md)
   - [DDD와 이벤트 스토밍](https://github.com/kaeuhy/TIL/blob/main/etc/DDD/DDD.md)
 
 <br/>
