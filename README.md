@@ -1,13 +1,15 @@
 # TIL
+
 내 것으로 만들기 위한 것들을 기록합니다.
 
 <br/>
 
 ## 분류
+
 - ## Electron
   ### Electron Docs
-    [Electron 공식문서](https://www.electronjs.org/docs/latest/)의 내용과 이미지를 참고하여 정리하였습니다.
 
+    [Electron 공식문서](https://www.electronjs.org/docs/latest/)의 내용과 이미지를 참고하여 정리하였습니다.
   - [Process Model](https://github.com/kaeuhy/TIL/blob/main/Electron/Docs/processModel/processModel.md)
   - [Context Isolation](https://github.com/kaeuhy/TIL/blob/main/Electron/Docs/contextIsolation/contextIsolation.md)
   - [Inter-Process Communication](https://github.com/kaeuhy/TIL/blob/main/Electron/Docs/interProcessCommunication/interProcessCommunication.md)
@@ -16,8 +18,8 @@
 
 - ## React
   ### React Docs
+
     [React 공식문서](https://ko.react.dev/learn)의 내용과 이미지를 참고하여 정리하였습니다.
-  
   - [컴포넌트](https://github.com/kaeuhy/TIL/blob/main/React/Docs/component/component.md)
   - [컴포넌트 import 및 export](https://github.com/kaeuhy/TIL/blob/main/React/Docs/importExport/importExport.md)
   - [JSX로 마크업 작성](https://github.com/kaeuhy/TIL/blob/main/React/Docs/jsx/jsx.md)
@@ -34,10 +36,9 @@
   - [State 업데이트 큐](https://github.com/kaeuhy/TIL/blob/main/React/Docs/stateUpdateQueue/stateUpdateQueue.md)
   - [객체 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/objectStateUpdate/objectStateUpdate.md) 
   - [배열 State 업데이트하기](https://github.com/kaeuhy/TIL/blob/main/React/Docs/arrayStateUpdate/arrayStateUpdate.md)
-
   ### 다시 깊게 익히는 인사이드 리액트
+
   [다시 깊게 익히는 인사이드 리액트](https://product.kyobobook.co.kr/detail/S000217277841?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1)의 내용과 이미지를 참고하여 정리하였습니다.
-  
   - [프론트엔드 개발 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackFrontEnd/lookBackFrontEnd.md)
   - [싱글 페이지 애플리케이션 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackSPA/lookBackSPA.md)
   - [UI 컴포넌트의 위상 돌아보기](https://github.com/kaeuhy/TIL/blob/main/React/InsideReact/lookBackUIComponent/lookBackUIComponent.md)
@@ -59,12 +60,12 @@
 
 - ## JavaScript
   ### 모던 자바스크립트 Deep Dive
+
     [모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)의 내용과 이미지를 참고하여 진행하였습니다.
-  
   - [자바스크립트란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week2/WhatisJavaScript%3F.pdf)
   - [변수, 표현식과 문, 데이터 타입](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week3/variableExpressionStatementDataType.md)
   - [변수와 객체 그리고 메모리](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/variableObjectMemory.md)
-  - [Stack, Call Stack & Heap](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/stackCallStackHeap.md)
+  - [Stack, Call Stack &amp; Heap](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/stackCallStackHeap.md)
   - [연산자, 조건문](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week4/operatorConditional.md)
   - [타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체 비교](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week5/javascriptValuesTypesAndObjects.md)
   - [자바스크립트의 실행 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/etc/executionProcess.md)
@@ -92,13 +93,13 @@
   - [Set과 Map](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/setMap.md)
   - [브라우저의 렌더링 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/browserRendering.md)
   - [DOM](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/DOM.md)
-  
+
 <br/>
 
 - ## TypeScript
   ### 쉽게 시작하는 타입스크립트
+
     [쉽게 시작하는 타입스크립트](https://product.kyobobook.co.kr/detail/S000202595007)의 내용과 이미지를 참고하여 진행하였습니다.
-  
   - [변수와 함수의 타입 정의](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week2/type.md)
   - [인터페이스](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week3/interface.md)
   - [유니언 타입](https://github.com/kaeuhy/TIL/blob/main/TypeScript/week4/union_type/union_type.md)
@@ -118,8 +119,8 @@
 
 - ## Design Pattern
   ### 헤드퍼스트 디자인 패턴, GURU 디자인패턴
+
     [헤드퍼스트 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001810483)과 [GURU 디자인패턴](https://refactoring.guru/ko)를 참고하였습니다.
-  
   - [전략 패턴](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/strategy/strategy.md)
   - [싱글턴](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/singleton/singleton.md)
   - [팩토리 메소드](https://github.com/kaeuhy/TIL/blob/main/DesignPattern/factory-method/facotry-method.md)
@@ -131,8 +132,8 @@
 
 - ## Operating System
   ### 혼자 공부하는 컴퓨터구조 + 운영체제
+
     [혼자 공부하는 컴퓨터구조 + 운영체제](https://www.inflearn.com/course/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C?cid=329800&srsltid=AfmBOop5Mbq19R07ueoh0fnFgCz5nYwQlcIBCUG1ML6U_wSylPpv2DHt)의 내용과 이미지를 참고하였습니다.
-  
   - [운영 체제란?](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/os/os.md)
   - [프로세스](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/proces/proces.md)
   - [스레드](https://github.com/kaeuhy/TIL/blob/main/OperatingSystem/thread/thread.md)
@@ -150,12 +151,14 @@
   - [스택](https://github.com/kaeuhy/TIL/blob/main/DataStructure/stack/stack.md)
   - [큐](https://github.com/kaeuhy/TIL/blob/main/DataStructure/queue/queue.md)
   - [덱](https://github.com/kaeuhy/TIL/blob/main/DataStructure/deque/deque.md)
-  - [해시 맵 & 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
+  - [해시 맵 &amp; 테이블](https://github.com/kaeuhy/TIL/blob/main/DataStructure/hash/hash.md)
 
 <br/>
 
 - ## etc.
   - [Named Pipe](https://github.com/kaeuhy/TIL/blob/main/etc/namedPipe/namedPipe.md)
+  - [Network Attached Storage](https://github.com/kaeuhy/TIL/blob/main/etc/networkAttachedStorage/networkAttachedStorage.md)
   - [DDD와 이벤트 스토밍](https://github.com/kaeuhy/TIL/blob/main/etc/DDD/DDD.md)
 
 <br/>
+
