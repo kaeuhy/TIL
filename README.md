@@ -96,6 +96,7 @@
   - [브라우저의 렌더링 과정](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/browserRendering.md)
   - [DOM](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/DOM.md)
   - [Ajax란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/ajax/ajax.md)
+  - [REST API](https://github.com/kaeuhy/TIL/blob/main/JavaScript/restApi/restApi.md)
 
 <br/>
 
