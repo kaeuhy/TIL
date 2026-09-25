@@ -98,6 +98,7 @@
   - [DOM](https://github.com/kaeuhy/TIL/blob/main/JavaScript/week12/DOM.md)
   - [Ajax란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/ajax/ajax.md)
   - [REST API](https://github.com/kaeuhy/TIL/blob/main/JavaScript/restApi/restApi.md)
+  - [Promise](https://github.com/kaeuhy/TIL/blob/main/JavaScript/promise/promise.md)
 
 <br/>
 
