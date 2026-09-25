@@ -99,6 +99,7 @@
   - [Ajax란?](https://github.com/kaeuhy/TIL/blob/main/JavaScript/ajax/ajax.md)
   - [REST API](https://github.com/kaeuhy/TIL/blob/main/JavaScript/restApi/restApi.md)
   - [Promise](https://github.com/kaeuhy/TIL/blob/main/JavaScript/promise/promise.md)
+  - [제너레이터와 async/await](https://github.com/kaeuhy/TIL/blob/main/JavaScript/generatorAsyncAwait/generatorAsyncAwait.md)
 
 <br/>
 
