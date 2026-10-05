@@ -162,9 +162,14 @@
 
 <br/>
 
+- ## Network.
+  - [P2P](https://github.com/kaeuhy/TIL/blob/main/Network/P2P/p2p.md)
+  - [Named Pipe](https://github.com/kaeuhy/TIL/blob/main/Network/namedPipe/namedPipe.md)
+  - [Network Attached Storage](https://github.com/kaeuhy/TIL/blob/main/Network/networkAttachedStorage/networkAttachedStorage.md)
+
+<br/>
+
 - ## etc.
-  - [Named Pipe](https://github.com/kaeuhy/TIL/blob/main/etc/namedPipe/namedPipe.md)
-  - [Network Attached Storage](https://github.com/kaeuhy/TIL/blob/main/etc/networkAttachedStorage/networkAttachedStorage.md)
   - [DDD와 이벤트 스토밍](https://github.com/kaeuhy/TIL/blob/main/etc/DDD/DDD.md)
 
 <br/>
