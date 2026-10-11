@@ -170,6 +170,7 @@
 <br/>
 
 - ## etc.
+  - [프론트엔드 개발자를 위한 데이터베이스와 ERD](https://github.com/kaeuhy/TIL/blob/main/etc/Database/ERD.md)
   - [DDD와 이벤트 스토밍](https://github.com/kaeuhy/TIL/blob/main/etc/DDD/DDD.md)
 
 <br/>
