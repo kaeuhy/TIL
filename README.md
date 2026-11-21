@@ -11,6 +11,7 @@
 
     [밑바닥부터 시작하는 웹 브라우저](https://product.kyobobook.co.kr/detail/S000217503808)의 내용과 이미지를 참고하여 정리하였습니다.
   - [도메인 주소 입력부터 서버 연결까지](https://github.com/kaeuhy/TIL/blob/main/Browser/url-to-connection/url-to-connection.md)
+  - [브라우저 HTTP 캐싱과 Tanstack Query 캐싱](https://github.com/kaeuhy/TIL/blob/main/Browser/http-cache-vs-tanstack-query-cache/http-cache-vs-tanstack-query-cache.md)
 
 <br/>
 
